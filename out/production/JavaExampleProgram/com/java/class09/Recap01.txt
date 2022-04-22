@@ -1,0 +1,40 @@
+Identifiers - User defined name for variables, methods or class
+    - Allowed char 0-9, a-z, $, _
+    - No space allowed
+    - It should not start with digit
+    - It cannot be keyword reserved by java
+    - Case sensitive
+Data types
+    Primitive       Non Primitive
+        int     String
+        short
+        long
+        byte
+        float
+        double
+        boolean
+        char
+Variables
+Operators
+    -Arithmetic Operators - (+, -, /, *, %)
+    -Comparison / Relational operators - (>, <, >=, <=, !=, ==)
+    -Expression
+    -Operator priority & Associativity
+        https://introcs.cs.princeton.edu/java/11precedence/
+        *, /, % - highest priority
+        +, -    - lower priority
+Conditional Statements
+    Simple If
+    If Else
+    Ladder If Else
+    Nested If Else
+    Switch Case
+
+Type Casting
+Escape Characters
+break;
+continue;
+Looping
+    While loop
+    Do while loop
+    For loop
